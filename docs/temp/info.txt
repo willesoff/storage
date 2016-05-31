@@ -1,0 +1,334 @@
+nic.ua
+7emenoff@gmail.com
+p5c15uus
+
+https://tzk108.nic.ua:2083/
+algebroi
+0916&304bgb
+
+
+Ammo
+
+9?19 Para: 9.96
+
+
+Manufacturer   | Model              | Capacity |  Length   | mm     |
+---------------------------------------------------------------------------------------------------
+SureFire       | Aluminum           | 100 round | 12.200"  | 309.88 |         | 1.660"   | 9.6 oz |
+---------------------------------------------------------------------------------------------------
+SureFire       | Aluminum           |  60 round |  8.700"  | 220.98 |         | 1.660"   | 6.4 oz |
+---------------------------------------------------------------------------------------------------
+Magpul         | PMAG Gen M3        |  40 round |          | 240.00 | 68.000  | 29.000   | 178 g  |
+---------------------------------------------------------------------------------------------------
+Cammenga       | EM3-556, steel     |  30 round |  7.630"  | 193.80 | 2.860"  | 0.930"   | 8.8 oz |
+Magpul         | P-Mag              |  30 round |  7.500”  | 190.50 |
+Magpul         | PMAG Gen M3        |  30 round |          | 189.00 | 68.000  | 29.000   | 142 g  |
+C-Products     | Aluminum           |  30 round |  7.250”  | 184.15 |
+PRi Waffled    | steel              |  30 round |  6.200"  | 157.48 |
+---------------------------------------------------------------------------------------------------
+Cammenga       | EM2-556, steel     |  20 round |  5.630"  | 143.00 |  2.860" |  0.930" | 6.5 oz |
+MAGPUL         | PMAG Gen M3        |  20 round |          | 140.00 | 68.000  | 29.000  | 117 g  |
+Lancer         | L5                 |  20 round |  5.500”  | 139.70
+Unknown        | Steel, straight    |  20 round |  5.250”  | 133.35
+C-Products     | Aluminum           |  20 round |  5.250”  | 133.35
+Master Moulder | Plastic, straight  |  20 round |  4.750”  | 120.65
+---------------------------------------------------------------------------------------------------
+Bushmaster     | Aluminum, straight |  10 round |  4.500”  | 114.30
+C-Products     | Aluminum, straight |  10 round |  3.500”  |  88.90
+PRi Waffled    | Steel              |  10 round |  3.125   |  79.38
+---------------------------------------------------------------------------------------------------
+C-Products     | Aluminum, straight |   5 round |  3.500”  |  88.90
+Unknown        | Aluminum, straight |   5 round |  3.000”  |  76.20
+Kel-Tec        | Plastic, straight  |   5 round |  2.750”  |  69.85
+
+___________________________________________________
+M16-30:     2.860" x  0.930" x   7.630"    8.80 oz
+	         72.644  х 23.622  х 193.802   249.48 g
+---------------------------------------------------                
+PMAG-30:    2.808" x  0.893" x 193.802   105.00 g
+           71.580  x 23.190  x 193.802   105.00 g
+---------------------------------------------------           
+M5.7-4 50: 45.000  x 26.000  x 120.000    50.00 g
+
+    
+Пистолет:
+M5.7-3 33 rnds:
+
+Винтовка:
+M5.7-4 50: 45.000  x 26.000  x 120.000, 50 грамм (пустой), 400 грамм (снаряженный)
+
+Брикеты:
+   20 х  60 х    5 -  10 грамм	
+   20 x  60 x   20 -  40 грамм
+   40 х  60 х   20 -  80 грамм
+   80 х  60 х   20 - 160 грамм
+  160 х  60 х   20 - 320 грамм
+  160 х  60 х   40 - 640 грамм
+
+Ленты:
+    60 х  20 х    2 -  40 грамм
+    60 х  20 х    1 -  20 грамм
+   300 х  20 х    1 - 100 грамм
+15 000 х  10 х 0.15 - 375 грамм 
+
+
+Упаковка взрывпластин 32 шт. 20х60х5-мм
+Лента 15м 10х0.15 мм
+
+Mil
+
+основные:
+	пехотные войска
+	танковые войска
+	артиллерийско-ракетные войска
+	воздушно-десантные войска
+	вертолетные войска
+
+вспомогательные:
+	инженерные войска
+	войска связи
+	зенитно-ракетные войска
+	войска тыла
+	войска специального назначения
+
+
+структурные образования:
+	воинское подразделение
+		пехота: отделение, взвод, рота, батальон
+		артиллерия - батарея, дивизион
+		авиации - пара, звено, эскадрилья
+воинская часть - бригада;
+воинское соединение - дивизия, корпус;
+воинское объединение - армия, фронт
+
+
+носовой части, бортов и кормы корпуса распределяются в соотношении 2.5:1:0.5, а крыша и днище имеют толщину в среднем до 30 мм
+длины, ширины и высоты корпуса влечет за собой уменьшение его массы, находящихся в соотношении 1:3:7
+
+
+Вс = Bo - 2 (bг + d + b)
+Bo — общая габаритная ширина танка, ограниченная возможностью перевозок по железным дорогам, морским транспортом или погрузки в самолет авиатранспортабельных машин;
+  bг — ширина гусеницы;
+  d — зазор между гусеницей и бортом;
+  b — толщина бортового листа брони.
+
+ (Во >= 3414 мм)
+
+
+ Техника:
+ 	Бронетранспортёр (авиатранспортабельность, мореходность, транспортабельность)
+ 		бронетранспортёр боеприпасов
+ 		броневой транспортер личного состава
+ 			броневой транспортёр пехоты / десанта
+ 			броневой транспортёр морской пехоты
+ 		броневой медицинский транспортёр
+
+
+
+самозарядный гранатомёт с трубчатым магазином компоновки булпап
+самозарядный гранатомёт с магазинным питанием
+револьверный гранатомёт
+
+timbpy16y36b052892
+
+
+
+
+Изомер гафния 178m2Hf - 50-200 кг тротиловго еквивалента
+
+ATP 3-90.5 Combined Arms batallion
+ATP 3-90.1
+
+FMI 3-90.6
+FM 71-100
+
+
+
+M2, M2A1 FMC Corp.
+M2A2, M2A3 United Defense, L.P.
+
+ATP 3-20.98 Reconnaissance Platoon
+FM 7-92: The Infantry Reconnaissance Platoon And Squad 1992
+
+
+attachments to a scout platoon:
+ the ground surveillance radar (GSR) team
+ the combat observations and lasing team (COLT)
+ engineer recon team (ERT)
+ and the joint tactical air controller (JTAC)
+
+
+battlefield information coordination center (BICC) - assistant S2
+
+
+Tactical Operations Center (TOC)
+Tactical Command Post (TAC)
+
+2С35 Коалиция-СВ - 2А88 
+ТЗМ 2Ф66-1
+
+
+M12986 Joint Service General Purpose Mask (JSGPM) Field M50
+M13236 Joint Service General Purpose Mask (JSGPM) Combat crewman vehicle M51 
+
+
+AN/PVS-4
+AN/PVS-5A/B/C/D
+AN/PVS-7A/B/C/D
+AN/PVS-14
+AN/AVS-6(V)1, 2, 3
+AN/AVS-9
+AN/TVS-5
+AN/VVS-2 V1/V2/V3
+
+Коллекторная схема подключения системы водоснабжения
+
+Водозабор:
+основной запорной шаровой кран на холодную воду
+фильтр грубой очистки (600 микрон)
+счётчик
+обратный клапан косой врезки (ревизиционный)
+дренажный кран
+резьбовой переход с металлических изделий на полипропилен (MPH)
+фильтр грубой очистки (100 микрон)
+промывочный фильтр механической очистки воды
+редуктор давления
+расширительный мембранный компенсационный бак ?
+гмс ?
+запорный шаровой кран на холодную воду
+коллектор-гребёнка
+
+перед сантехническими приборами (стиралка, ...)
+умягчающий магистральный фильтр
+фильтр - обезжелезиватель
+
+Потребители ХВС:
+	Кухня
+		Мойка
+		Посудомойка
+		Бойлер
+		Котёл		
+	Туалетная комната
+		Унитаз
+		Рукомойник
+		Гигиенический душ
+	Ванная комната
+		Ванная
+		Умывальник
+		Стиральная машина
+
+Потребители ГВС
+	Кухня
+		Мойка
+	Ванная комната
+		Ванная
+		Умывальник
+		
+аварийный запорной шаровой кран на холодную воду		
+основной запорной шаровой кран на холодную воду		
+
+function Animal(name) {
+  // this = {};
+  // в this пишем свойства, методы
+  this.name = name;
+  this.canWalk = true;
+  // return this;
+}
+
+var animal = new Animal("ёжик");
+
+Детальнее – функция, запущенная через new, делает следующее:
+- Создаётся новый пустой объект.
+- Ключевое слово this получает ссылку на этот объект.
+- Функция выполняется. Как правило, она модифицирует this, добавляет методы, свойства.
+- Возвращается this.
+
+
+
+
+for (let i = 0, end = array.length; i < end; object[i] = i, i++) {}
+
+
+function name (constructor, methods, statics) {}
+
+function Constructor(foo, bar) {this.foo = foo; this.bar = bar;}
+
+Изменение
+
+parent.appendChild(newChild)
+parent.removeChild(child)
+parent.insertBefore(newChild, refNode)
+parent.insertAdjacentHTML("beforeBegin|afterBegin|beforeEnd|afterEnd", html)
+parent.insertAdjacentElement("beforeBegin|...|afterEnd", text) (кроме FF)
+parent.insertAdjacentText("beforeBegin|...|afterEnd", text) (кроме FF)
+document.write(...)
+Скорее всего, понадобятся полифиллы для:
+
+node.append(...nodes)
+node.prepend(...nodes)
+node.after(...nodes),
+node.before(...nodes)
+node.replaceWith(...nodes)
+Классы и стили
+
+elem.className
+Атрибут class elem.classList.add(class) remove(class) toggle(class) contains(class)
+Управление классами, для IE9- есть [эмуляция](https://github.com/eligrey/classList.js/blob/master/classList.js).
+elem.style
+Стили в атрибуте style элемента
+getComputedStyle(elem, "")
+Стиль, с учётом всего каскада, вычисленный и применённый (только чтение)
+Размеры и прокрутка элемента
+
+clientLeft/Top
+Ширина левой/верхней рамки border
+clientWidth/Height
+Ширина/высота внутренней части элемента, включая содержимое и padding, не включая полосу прокрутки (если есть).
+scrollWidth/Height
+Ширина/высота внутренней части элемента, с учетом прокрутки.
+scrollLeft/Top
+Ширина/высота прокрученной области.
+offsetWidth/Height
+Полный размер элемента: ширина/высота, включая border.
+Размеры и прокрутка страницы
+
+ширина/высота видимой области: document.documentElement.clientHeight
+
+прокрутка(чтение): window.pageYOffset || document.documentElement.scrollTop
+
+прокрутка(изменение):
+
+window.scrollBy(x,y): на x,y относительно текущей позиции.
+window.scrollTo(pageX, pageY): на координаты в документе.
+elem.scrollIntoView(true/false): прокрутить, чтобы elem стал видимым и оказался вверху окна(true) или внизу(false)
+Координаты
+
+относительно окна: elem.getBoundingClientRect()
+относительно документа: elem.getBoundingClientRect() + прокрутка страницы
+получить элемент по координатам: document.elementFromPoint(clientX, clientY)
+
+
+RUP
+Waterfall.
+SCRUM in distributed teams
+Agile methodologies
+Different communication channels with SME
+Mitigation of misunderstanding with Customer (before escalation). 
+Different approaches in getting requirements.
+
+BA in Big-scale projects
+Use Cases
+BDD scenarios
+Beginning of projects
+Team working
+Team collaboration
+
+Politeness.
+Focus on customer
+comunications with customer
+
+
+
+
+
+
